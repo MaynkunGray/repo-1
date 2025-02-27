@@ -1,0 +1,18 @@
+В ветке master есть 4 моих коммита (4 слияния с ветками), которые я сделал по условиям задач. Этих коммитов нет в ветке demo
+
+После загрузки ветки master в свой репозиторий, я вижу 11 коммитов:
+
+	Merge pull request #1 from MaynkunGray/master
+	Merge boots_buttons to master
+	Merge to master
+	Merge2
+	Merge1
+	fix readme
+	dots
+	README added
+	boots
+	heat added
+	init
+
+P. S. Этот файл был добавлен на репозиторий после выполнения всех заданий в задаче.
+        Коментария про добавление этого файла нет.
